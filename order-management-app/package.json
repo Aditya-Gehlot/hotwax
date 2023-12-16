@@ -1,0 +1,19 @@
+{
+  "name": "order-management-app",
+  "version": "1.0.0",
+  "description": "ordermanage",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"node index.js"
+  },
+  "keywords": [],
+  "author": "adi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.5"
+  }
+}
